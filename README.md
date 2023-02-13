@@ -1,13 +1,13 @@
-# Projeto-Integrador
+# APRE
 Projeto da Matéria de Projeto Integrador 1
 
-Nome: APRE
-Ferramenta de Gerenciamento: Trello
-Tema: Organizar e gerenciar apresentações acadêmicas
+Nome: APRE <br />
+Ferramenta de Gerenciamento: Trello <br />
+Tema: Organizar e gerenciar apresentações acadêmicas <br />
 
-O foco principal do sistema será auxiliar aos professores, inicialmente do IFPI, no gerenciamento de apresentações de suas turmas.
+O foco principal do sistema será auxiliar aos professores, inicialmente do IFPI, no gerenciamento de apresentações de suas turmas. <br />
 
-Time:
-  Lucas Gabriel
-  Emanoel Sousa
-  Antoniel
+Time: <br />
+-  Lucas Gabriel <br />
+-  Emanoel Sousa <br />
+-  Antoniel
